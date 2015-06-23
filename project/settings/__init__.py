@@ -41,6 +41,7 @@ INSTALLED_APPS = (
     'fuqu.places',
     'fuqu.profiles',
     'fuqu.queues',
+    'fuqu.users',
 )
 
 MIDDLEWARE_CLASSES = (
