@@ -37,6 +37,10 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
+    'fuqu.places',
+    'fuqu.profiles',
+    'fuqu.queues',
 )
 
 MIDDLEWARE_CLASSES = (
