@@ -1,0 +1,30 @@
+As a User
+
+# Authentication
+I want to register for the app
+So that I can join this super-awesome queue-loving community
+
+I want to login to the app
+So that I can start queueing
+
+I want to register/login with Facebook
+So that I can access the app with minimum fuss
+
+# Queueing
+I want to see Queue times for nearby Places
+So that I can decide whether it's worth my while going
+
+I want to see Queue times for a particular Place
+So that I can see Places that are of interest not just nearby
+
+I want to see more detailed Queueing stats for a particular Place
+So that I can make a more informed decision about whether to going there
+
+I want to record my time in the Queue
+So that I can get points and
+
+
+# Leaderboard
+As an Exec
+I want to show a Leaderboard of the best performing Queuers
+So that I can encourage Users to records their Queues more
