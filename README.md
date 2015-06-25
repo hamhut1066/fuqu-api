@@ -9,8 +9,8 @@ as install git hooks to ensure all tests are ran before committing.
 
 # Useful Commands
 
-`./.serve` starts the API server running on localhost:8000 (linux) or 192.168.59.103:8000 (mac with boot2docker)
-`./.test` runs the entire test suite
-`./.test module.app.tests.TestClass.test_method` runs a more specific group of tests down to a specific test
-`./.migrate [app_name]` creates migrations for any changes to the data structure. Should be run if modifying models.
-`./.manage [command]` runs a specified django management command
+`./.serve` starts the API server running on localhost:8000 (linux) or 192.168.59.103:8000 (mac with boot2docker)  
+`./.test` runs the entire test suite  
+`./.test module.app.tests.TestClass.test_method` runs a more specific group of tests down to a specific test  
+`./.migrate [app_name]` creates migrations for any changes to the data structure. Run this if modifying models.  
+`./.manage [command]` runs a specified django management command  
